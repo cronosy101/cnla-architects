@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "review": "'With attention to our lifestyle, taste, and personality, CNLA Architects created a surprising design that fits us perfectly!'",
+    "customer": "marco dile",
+    "image": "/customers/Leonardo_Kino_XL_zoomed_out_image_full_view_of_kitchen_of_a_wh_1.jpg"
+  },
+  {
+    "id": 2,
+    "review": "lorem",
+    "customer": "jessica sanders",
+    "image": "/customers/Leonardo_Kino_XL_zoomed_out_image_full_view_of_a_living_room_o_2.jpg"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "type": "villa",
+    "date": "2023-11-12",
+    "adres": "Vondellaan 34, 1075AB",
+    "images": [
+      "/projects/house1.jpg",
+      "/projects/house1-int.jpg",
+      "/projects/house1-bath.jpg"
+    ],
+    "text1": "A modern villa with open spaces, clean lines, and seamless integration with the garden.",
+    "text2": "This villa showcases a minimalist design, blending natural materials and open-plan interiors. Floor-to-ceiling windows flood the living spaces with light, creating a warm and inviting atmosphere. The project emphasizes privacy, comfort, and functionality while maintaining a strong connection to the surrounding landscape. A central kitchen forms the heart of the home, with fluid transitions to the living and dining areas, ideal for family life and entertaining guests."
+  },
+  {
+    "id": 2,
+    "type": "villa",
+    "date": "2024-01-22",
+    "adres": "Beukenlaan 12, 1213KL",
+    "images": [
+      "/projects/house2.jpg",
+      "/projects/house2-int.jpg",
+      "/projects/house2-bath.jpg"
+    ],
+    "text1": "Spacious villa designed for indoor-outdoor living with a central patio and large kitchen island.",
+    "text2": "This unique villa design revolves around a tranquil internal courtyard, enhancing natural light and air flow. The architectural concept merges sustainability with elegance—natural wood, concrete, and glass work in harmony throughout the structure. Interior zones flow effortlessly from public to private spaces. Every element, from custom cabinetry to lighting design, was tailored to match the client’s vision and lifestyle. This home is a timeless expression of contemporary design."
+  },
+  {
+    "id": 3,
+    "type": "bungalow",
+    "date": "2022-09-18",
+    "adres": "Acacialaan 57, 1181ZK",
+    "images": [
+      "/projects/house3.jpg",
+      "/projects/house3-int.jpg",
+      "/projects/house3-bath.jpg"
+    ],
+    "text1": "A cozy and energy-efficient bungalow focused on sustainable materials and smart layout.",
+    "text2": "The bungalow was designed for simplicity, comfort, and long-term sustainability. Featuring smart insulation and solar integration, it provides energy efficiency without compromising on aesthetics. Interior design prioritizes natural tones, open living, and functional storage solutions. Wide hallways and a single-level layout ensure accessibility for all ages. The central living space opens onto a south-facing terrace, creating a natural extension of the indoors into the garden."
+  },
+  {
+    "id": 4,
+    "type": "bungalow",
+    "date": "2023-05-03",
+    "adres": "Lindenweg 89, 1234XR",
+    "images": [
+      "/projects/house4.jpg",
+      "/projects/house4-int.jpg",
+      "/projects/house4-bath.jpg"
+    ],
+    "text1": "A sleek modern bungalow combining bold design choices with functional open-plan living.",
+    "text2": "Designed to reflect the personality of its owners, this modern bungalow emphasizes bold shapes and strong contrasts. Its black steel accents and white brick facade make a striking impression, while the interior remains warm with oak floors and soft lighting. The open-plan layout offers an airy experience, anchored by a kitchen island that doubles as a social hub. Sustainability and comfort were prioritized throughout the construction, resulting in a stylish yet practical home."
+  }
+]
