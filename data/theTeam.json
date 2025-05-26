@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Lena Schmidt",
+    "role": "Principal Architect",
+    "description": "Lena leads the creative vision of the studio with over 15 years of experience in sustainable architecture and residential design. Her work blends form and function with a deep respect for context.",
+    "image": "/team/lena.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Marcus Lee",
+    "role": "Design Lead",
+    "description": "Marcus specializes in conceptual development and client engagement. With a background in urban planning, he brings big-picture thinking to every project, ensuring clarity and consistency from start to finish.",
+    "image": "/team/marcus.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Sara Velasquez",
+    "role": "Project Manager",
+    "description": "Sara keeps everything on track—from scheduling to budgeting—with unmatched precision. Her experience spans commercial and residential projects, and she ensures smooth execution from concept to completion.",
+    "image": "/team/sara.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Jin Woo",
+    "role": "Technical Architect",
+    "description": "Jin bridges the gap between design and delivery, managing documentation and construction phases. His strength lies in translating creative ideas into technically sound solutions.",
+    "image": "/team/jin.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Emily Roemer",
+    "role": "Interior Designer",
+    "description": "Emily crafts interiors that enhance architecture, balancing texture, color, and light. She works closely with clients to bring warmth and personality into every space.",
+    "image": "/team/emily.jpg"
+  }
+]

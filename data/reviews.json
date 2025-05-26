@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "names": "Thomas and Elena",
+    "review": "Working with CNLA was one of the best decisions we made during our renovation. They managed to design a home that reflects both our lifestyle and the historical charm of the original structure. Their attention to sustainability and detail made the entire process seamless and deeply rewarding.",
+    "source": "Client Testimonial",
+    "image": "/customers/Noah-and-Sophie.jpg"
+  },
+  {
+    "id": 2,
+    "names": "Lucas and Marijn",
+    "review": "From our first meeting with CNLA, we felt understood. Our co-living project required creative spatial planning and strong communication. CNLA delivered both. The team remained hands-on throughout the process, ensuring our new space is both beautiful and practical.",
+    "source": "Renovation Partners",
+    "image": "/customers/Thomas-and-Elena.jpg"
+  },
+  {
+    "id": 3,
+    "names": "Emily and Jasper",
+    "review": "We were blown away by CNLA’s concept for our home as part of a design competition. The architecture is clean, yet full of subtle details that elevate the space. Our home now feels spacious, light-filled, and truly unique. They absolutely captured the wow factor we were after.",
+    "source": "The Design Showcase",
+    "image": "/customers/Lucas-and-Marijn.jpg"
+  },
+  {
+    "id": 4,
+    "names": "Anika and Robert",
+    "review": "Renovating a listed townhouse in The Hague required sensitivity and skill. CNLA’s design balanced the historic features with contemporary needs perfectly. Their collaborative spirit and consistent communication made for a smooth and inspiring process.",
+    "source": "Heritage Restoration Client",
+    "image": "/customers/Emily-and-Jasper.jpg"
+  },
+  {
+    "id": 5,
+    "names": "Charlotte van Rijn",
+    "review": "After CNLA redesigned our urban loft, we immediately asked them to work on our countryside retreat. Their vision transformed the space beyond what we imagined—opening up views, bringing in light, and creating a home that feels completely ours.",
+    "source": "Repeat Client Testimonial",
+    "image": "/customers/Anika-and-Robert.jpg"
+  },
+  {
+    "id": 6,
+    "names": "Noah and Sophie",
+    "review": "CNLA brought creativity and expertise to every phase of our build. They took time to understand our style, offered thoughtful design ideas, and were technically strong in managing the project with our contractor. We couldn’t be happier with the final result.",
+    "source": "Architectural Collaboration",
+    "image": "/customers/Charlotte-van-Rijn.jpg"
+  }
+]

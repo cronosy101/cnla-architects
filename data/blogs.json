@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Designing with Purpose: CNLA's Vision for Human-Centered Architecture",
+    "slug": "designing-with-purpose",
+    "date": "2025-05-15",
+    "excerpt": "At CNLA Architects, every project begins with a dialogue—because architecture should reflect not only aesthetics but the people who use it.",
+    "content": "Architecture at CNLA is never about creating shapes for the sake of visual impact alone. We believe in design that responds to context, lifestyle, and function. By engaging deeply with our clients’ needs, we shape spaces that serve both the present and future. From private villas to sustainable office spaces, our mission is to deliver architecture with meaning—tailored to people, place, and purpose.\n\nOur process involves a collaborative exchange that brings clarity to design decisions. We combine modern aesthetics with timeless principles, ensuring that our buildings are not only beautiful, but intelligent and enduring. Human-scale details, natural light, and material honesty are at the heart of every structure we create.",
+    "image": "/blogImages/designing-with-purpose.jpg"
+  },
+  {
+    "id": 2,
+    "title": "How CNLA Architects Embraces Sustainability in Every Project",
+    "slug": "sustainability-at-cnla",
+    "date": "2025-04-27",
+    "excerpt": "Sustainability isn't a trend for CNLA—it’s a foundational principle. Our designs prioritize long-term environmental performance without compromising on elegance.",
+    "content": "Sustainable architecture is embedded in our philosophy at CNLA Architects. We approach every project with environmental responsibility, incorporating energy-efficient systems, passive climate control, and sustainable materials. From the orientation of a home to the choice of wood and insulation, every element is intentional.\n\nBeyond compliance, we aim to create buildings that actively contribute to a healthier planet. Whether it’s integrating green roofs, using recycled materials, or optimizing daylight, we strive to reduce ecological impact while elevating spatial experience. Sustainability is not a feature—it’s a design ethic that touches every decision we make.",
+    "image": "/blogImages/sustainability-cnla.jpg"
+  }
+]

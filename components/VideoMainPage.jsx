@@ -8,7 +8,7 @@ function VideoMainPage() {
         <div className="w-full lg:w-1/2 aspect-video">
           <iframe
             className="w-full h-full rounded-xl shadow-lg"
-            src="https://www.youtube.com/embed/ec_fXMrD7Ow?autoplay=1&mute=1&loop=1&playlist=ec_fXMrD7Ow"
+            src="https://www.youtube.com/embed/ec_fXMrD7Ow?controls=0&showinfo=0&rel=0&modestbranding=1&autoplay=1&mute=1&loop=1&playlist=ec_fXMrD7Ow"
             title="YouTube video player"
             frameBorder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

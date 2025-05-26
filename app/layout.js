@@ -2,7 +2,7 @@ import { Space_Grotesk } from 'next/font/google';
 import './globals.css';
 import NavBar from '@/components/NavBar';
 import Footer from '@/components/Footer';
-
+import Providers from '@/context/Providers';
 const spaceGrotesk = Space_Grotesk({
   subsets: ['latin'],
   weight: ['500'],
@@ -20,7 +20,10 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={spaceGrotesk.className}>
         <NavBar />
-        <main>{children}</main>
+        <Providers>
+          <main>{children}</main>
+        </Providers>
+
         <Footer />
       </body>
     </html>

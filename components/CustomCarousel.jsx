@@ -37,6 +37,9 @@ export default function CustomCarousel() {
             alt={`Slide ${index + 1}`}
             fill
             className="object-cover"
+            // className={`object-cover transition-transform duration-[10000ms] ease-in ${
+            //   index === current ? 'scale-110' : 'scale-100'
+            // }`}
             priority={index === 0}
           />
         </div>

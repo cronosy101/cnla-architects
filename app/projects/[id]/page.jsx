@@ -1,9 +1,14 @@
-import projects from '@/data/projects.json';
+// import projects from '@/data/projects.json';
 import Image from 'next/image';
+import { FaAngleRight } from 'react-icons/fa';
+import Link from 'next/link';
+import { getProject } from '@/lib/actions';
 
 export default async function ProjectPage({ params }) {
   const { id } = await params;
-  const project = projects.find((p) => p.id === parseInt(id));
+  const project = await getProject(id);
+  // console.log('data from database projects/id = ', project);
+  // const project = projects.find((p) => p.id === parseInt(id));
 
   if (!project) {
     return (
@@ -43,6 +48,12 @@ export default async function ProjectPage({ params }) {
           <p className="text-lg">{project.text1}</p>
           <p className="text-gray-700 leading-relaxed">{project.text2}</p>
         </div>
+        <Link
+          className="text-gray-600 flex items-center hover:text-black"
+          href={`/housetypes/${project.type}`}
+        >
+          <p>back to {project.type}s </p> <FaAngleRight />
+        </Link>
       </div>
     </div>
   );
